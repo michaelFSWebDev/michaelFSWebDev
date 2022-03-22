@@ -2,6 +2,9 @@
 
   I'm Michael and recent I finished 3 Full stack web based programming courses from Coding Dojo!!! I finally finished in Febuary 2022. This was my first step 
 into making my dream come true. I have always wanted to work with computers. And be able to create my own things with code. 
+
+![](codingdojdcert.png)
+
 I have enjoyed coding for a long time now, But never really had any formal training. Mostly it has been a little bit here and there..
 I use to play this game that seems like a long time ago.. " Starseige: Tribes "
   I really looked up to some of the mod maker back then, and was really easy to look at the code and follow along. It was all very
